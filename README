@@ -1,0 +1,16 @@
+Entera Junior Engineer Code Test
+Submission by: Alvaro Quintanilla
+
+This is my submission for the Junior Engineer Code Test. This submission makes use of an ExpressJS backend and a ReactJS
+frontend to complete the task.
+
+To run the project, follow these commands:
+1.) cd entera-test/server
+2.) npm start
+
+Then,
+
+3.) cd entera-test/client
+4.) npm start
+
+The page can be accessed by going to localhost:3000 in your browser.
